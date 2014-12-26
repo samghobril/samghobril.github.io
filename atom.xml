@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2014-12-26T11:21:17+02:00</updated>
+  <updated>2014-12-26T11:25:29+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-05-04T00:00:00+03:00</updated>
     <id>http://samghobril.github.io/blog/releasing-mingle</id>
     <content type="html"><![CDATA[<p>On April 30th I released my first major iPhone app, Mingle. The feedback has been incredible, and the experience one-of-a-kind.</p>
+
+<!-- more -->
+
 
 <p>About 30 minutes after announcing the release of Mingle on the App Store, Patrick Rhone published an amazing article on <a href="http://minimalmac.com/post/84327744289/as-much-of-an-advocate-as-i-am-for-using-the-built">Minimal Mac</a>. At that point, I got a great surge of excitement. Patrick really seemed to &ldquo;get&rdquo; Mingle, and that felt great.</p>
 
