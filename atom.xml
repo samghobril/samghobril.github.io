@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2014-12-26T11:27:22+02:00</updated>
+  <updated>2014-12-26T11:29:10+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -18,7 +18,10 @@
     <link href="http://samghobril.github.io/blog/sketching-it-out/"/>
     <updated>2014-12-02T00:00:00+02:00</updated>
     <id>http://samghobril.github.io/blog/sketching-it-out</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve been spending the last few weeks trying decde what app to build. I&rsquo;ve already got a list of ideas that I&rsquo;d like to attempt, but the problem is choosing one.</p>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been spending the last few weeks trying decide what app to build. I&rsquo;ve already got a list of ideas that I&rsquo;d like to attempt, but the problem is choosing one.</p>
+
+<!-- more -->
+
 
 <p>What I&rsquo;d usually do is this:</p>
 
