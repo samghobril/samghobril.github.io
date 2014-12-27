@@ -97,6 +97,7 @@ html, body, h1, h2, h3, p {
 }
 
 a.rounded-link {
+	display: inline-block;
 	width: 100%;
     border:1em solid black;
     color: #fff;
