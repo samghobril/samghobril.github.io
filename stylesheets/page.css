@@ -101,4 +101,5 @@ img.rounded {
 	-webkit-box-shadow: 4px 4px 20px 0px rgba(50, 50, 50, 0.2);
 	-moz-box-shadow:    4px 4px 20px 0px rgba(50, 50, 50, 0.2);
 	box-shadow:         4px 4px 20px 0px rgba(50, 50, 50, 0.2);
+	border-bottom: 2em;
 }
