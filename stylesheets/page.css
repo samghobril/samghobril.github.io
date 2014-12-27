@@ -105,6 +105,7 @@ a.rounded-link {
 	width: calc(100% - 0.4em);   
 	color: #000;
 	border-radius: 21.666%;
+	text-decoration: none;
 }
 
 a.rounded-link:hover {
