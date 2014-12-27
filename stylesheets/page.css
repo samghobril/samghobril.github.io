@@ -95,3 +95,7 @@ html, body, h1, h2, h3, p {
   height: 100%;
   position: absolute;
 }
+
+img.rounded {
+	border-radius: 21.666%;
+}
