@@ -98,9 +98,19 @@ html, body, h1, h2, h3, p {
 
 a.rounded-link {
 	display: inline-block;
-	width: 100%;
-    border:1em solid black;
-    color: #fff;
+	border:0.2em solid #000;
+	width: -moz-calc(100% - 0.4em);
+	width: -webkit-calc(100% - 0.4em);
+	width: -o-calc(100% - 0.4em);
+	width: calc(100% - 0.4em);   
+	color: #000;
+	border-radius: 21.666%;
+}
+
+a.rounded-link:hover {
+	border:0.2em solid #000;
+	background-color: #000;
+	color: #fff;
 }
 
 img.rounded {
