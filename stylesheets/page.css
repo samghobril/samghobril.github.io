@@ -96,19 +96,8 @@ html, body, h1, h2, h3, p {
   position: absolute;
 }
 
-.dummy {
-	margin-top: 100%;
-}
-
 a.rounded-link {
-	position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
     border:1em solid black;
-    text-align: center;
-    font-size: 1.2em;
     color: #fff;
 }
 
