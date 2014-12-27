@@ -98,4 +98,7 @@ html, body, h1, h2, h3, p {
 
 img.rounded {
 	border-radius: 21.666%;
+	-webkit-box-shadow: 4px 4px 20px 0px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow:    4px 4px 20px 0px rgba(50, 50, 50, 0.2);
+	box-shadow:         4px 4px 20px 0px rgba(50, 50, 50, 0.2);
 }
