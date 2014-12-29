@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2014-12-29T23:04:51+02:00</updated>
+  <updated>2014-12-30T00:10:33+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -41,6 +41,75 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Two Separate Thoughts on iPhone Sizes and the Apple Watch]]></title>
+    <link href="http://samghobril.github.io/blog/two-separate-thoughts-on-iphone-sizes-and-the-apple-watch/"/>
+    <updated>2014-09-16T00:00:00+03:00</updated>
+    <id>http://samghobril.github.io/blog/two-separate-thoughts-on-iphone-sizes-and-the-apple-watch</id>
+    <content type="html"><![CDATA[<h2>Screen Sizes</h2>
+
+<p>I’ve been thinking about the newly-announced screen sizes for the iPhone, and what that means for the iOS family. The 5s/5c are still sold today, but probably won’t be in the future. So does that mean that the 4” models would just disappear?</p>
+
+<p>Here’s what I’m hoping for in the future:</p>
+
+<ul>
+<li>iPhone Mini: 4”</li>
+<li>iPhone (Air?): 4.7”</li>
+<li>iPhone Plus: 5.5”</li>
+<li>iPad Mini: 7.9”</li>
+<li>iPad Air: 9.7”</li>
+<li>iPad Plus: 12.9”</li>
+</ul>
+
+
+<p>Many suggested that Apple didn’t release a 4” iPhone 6 due to technical limitations. If that’s the case, and I hope it is, then I really think Apple could consider bringing back the 4” model when it’s possible again.</p>
+
+<p>On another note, on Debug 46, Vicki Murley suggested that the iPad Mini has no place anymore due to it being squeezed out by the sizes of the iPhone Plus and iPad Air. I actually think the current lineup works great. People with a 5.5” model would buy the iPad Air, while people with smaller models might still opt for the iPad Mini. I guess we’ll just have to wait and see what happens.</p>
+
+<h2>Apple Watch and Notifications</h2>
+
+<p>The Apple Watch got me thinking about the way notifications are dealt with. We’re extremely used to the idea of sound notifications. But, with the Apple Watch, how necessary are they? While wearing the Watch, we’re probably not going to miss any notifications, and we won’t need the sound to alert us if our iPhone isn’t nearby; the Watch is right there on our wrist.</p>
+
+<p>And, what I’m also hoping for, is a smart, automatic way for sound notifications to get enabled/disabled on the iPhone. The Apple Watch could detect when it isn’t worn, and re-enable sounds when that happens. And vice versa.</p>
+
+<p>This seems like a really minor detail, but it could potentially get us to stop thinking about the concept of putting phones on silent. I hope this exists.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cleaning Up Mingle's Code]]></title>
+    <link href="http://samghobril.github.io/blog/cleaning-up-mingles-code/"/>
+    <updated>2014-05-24T00:00:00+03:00</updated>
+    <id>http://samghobril.github.io/blog/cleaning-up-mingles-code</id>
+    <content type="html"><![CDATA[<p>While working on Mingle’s 1.1 update, I’m noticing that some of its code is really cluttered. Some parts feel like they’re being held together by duct tape, and some other parts are just abnormally massive. This is because I learned a lot of stuff while working on Mingle. So before continuing work on the update, I’m going to work on cleaning up Mingle’s code.</p>
+
+<p>I found this year-old <a href="http://www.objc.io/issue-1/lighter-view-controllers.html">article from objc.io</a> called Lighter View Controllers, and it looks like a great starting point. I love this piece of advice:</p>
+
+<blockquote><p>One of the most powerful techniques to slim down your view controller is to take the UITableViewDataSource part of your code, and move it to its own class. If you do this more than once, you will start to see patterns and create reusable classes for this.</p></blockquote>
+
+<p>I’d never thought about these kinds of things before. I’d always focus on getting a feature working, then moving on to the next one. The structure of the code was getting worse and worse, and I barely, if ever, took notice.</p>
+
+<p>In order to make my work more enjoyable, I’m taking some time to clean things up. When things seem polished and clear, every problem will appear easier to solve.</p>
+
+<p>It’s the equivalent of cleaning up my desk before studying. I’m glad I’m doing this.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Design and Content Consumption]]></title>
+    <link href="http://samghobril.github.io/blog/design-and-content-consumption/"/>
+    <updated>2014-05-17T00:00:00+03:00</updated>
+    <id>http://samghobril.github.io/blog/design-and-content-consumption</id>
+    <content type="html"><![CDATA[<p>Supertop released <a href="http://castro.fm/">Castro</a> 1.1 about a week ago, and it really got me thinking about the relation between good design and the amount of content we consume.</p>
+
+<p>I first thought about this when <a href="http://supertop.co/unread">Unread</a> came out. I had never used an RSS reader other than Feedly, and opening up the app, which feels really cluttered to me, made the content seem just as ugly and cluttered. It took a huge effort to get myself to read just a few articles, and I eventually just stopped. Unread, on the other hand, provided me with what could possibly be the most beautiful reading experience on iOS so far. I loved the typography, the structure, and the design of the app, and it got me reading and enjoying way more articles than before.</p>
+
+<p>Castro had the same effect on me, which is even more interesting: podcasts aren’t even a visual form of media. I suppose when the packaging is this good, you want and need to know what’s inside. Many people argue that content is the only thing that matters, but I can’t be the only one who, still to this day, cringes at the sight of Reddit’s design.</p>
+
+<p>I love good UI. I love beautiful designs. The simple, clean look of <a href="http://mattgemmell.com/">Matt Gemmell’s blog</a>, the new <a href="http://macstories.net/">MacStories</a> redesign, every single article on Unread; these are the things that push me to consume content, and that’s when content begins to matter. A restaurant could have the most delicious meals, but not one person would step in if it looked like a total mess. That’s the way it should be for everything. If you want to pull people in, give them the most beautiful entrance you can provide. That’s how they’ll know you care.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Releasing Mingle]]></title>
     <link href="http://samghobril.github.io/blog/releasing-mingle/"/>
     <updated>2014-05-04T00:00:00+03:00</updated>
@@ -59,6 +128,27 @@
 <p>Ultimately, however, releasing Mingle has definitely been one of the most positive and enjoyable experiences of my life. There&rsquo;s nothing quite like seeing a large number of people really enjoy something you created, and I couldn&rsquo;t be more grateful.</p>
 
 <p>To everyone who&rsquo;s used Mingle: thank you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Good Music]]></title>
+    <link href="http://samghobril.github.io/blog/good-music/"/>
+    <updated>2014-04-06T00:00:00+03:00</updated>
+    <id>http://samghobril.github.io/blog/good-music</id>
+    <content type="html"><![CDATA[<p>A little less than a month ago, I downloaded Pharrell Williams&#8217; new album G I R L, and I had this to say:</p>
+
+<blockquote><p>Admittedly @Pharrell&rsquo;s new album is a pretty fun record. So far, that&rsquo;s all it is though. It lacks any kind of innovation.</p>
+
+<p>— @samghobril</p></blockquote>
+
+<p>It really is a fun album. I enjoyed the upbeat, catchy riffs, and even now they can sound pretty entertaining, but the record hasn&rsquo;t provided me with anything other than short-lasting amusement.</p>
+
+<p>Albums like Pharrell&rsquo;s make me skeptically excited, mostly knowing that the value of the album will soon fade, while albums like Arcade Fire&rsquo;s Reflektor make me curious about the contents of the album, the message behind every song, and make me feel that there&rsquo;s definitely more to the album than the effect of the first listen.</p>
+
+<p>Good music builds my character, gives me a sense of understanding, and makes me think about the different perspectives that people have on life. It gives me the urge to inspect and really <em>concentrate</em> on the song, which causes it to get better the more I listen to it.</p>
+
+<p>That&rsquo;s the music I&rsquo;m looking for. I&rsquo;m looking for innovation, not earworms. I&rsquo;m looking for a lesson, a way of life, a feeling of introspection. I&rsquo;m looking for art.</p>
 ]]></content>
   </entry>
   
