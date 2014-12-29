@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2014-12-30T00:10:33+02:00</updated>
+  <updated>2014-12-30T00:12:59+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -49,6 +49,9 @@
 
 <p>I’ve been thinking about the newly-announced screen sizes for the iPhone, and what that means for the iOS family. The 5s/5c are still sold today, but probably won’t be in the future. So does that mean that the 4” models would just disappear?</p>
 
+<!-- more -->
+
+
 <p>Here’s what I’m hoping for in the future:</p>
 
 <ul>
@@ -82,6 +85,9 @@
     <id>http://samghobril.github.io/blog/cleaning-up-mingles-code</id>
     <content type="html"><![CDATA[<p>While working on Mingle’s 1.1 update, I’m noticing that some of its code is really cluttered. Some parts feel like they’re being held together by duct tape, and some other parts are just abnormally massive. This is because I learned a lot of stuff while working on Mingle. So before continuing work on the update, I’m going to work on cleaning up Mingle’s code.</p>
 
+<!-- more -->
+
+
 <p>I found this year-old <a href="http://www.objc.io/issue-1/lighter-view-controllers.html">article from objc.io</a> called Lighter View Controllers, and it looks like a great starting point. I love this piece of advice:</p>
 
 <blockquote><p>One of the most powerful techniques to slim down your view controller is to take the UITableViewDataSource part of your code, and move it to its own class. If you do this more than once, you will start to see patterns and create reusable classes for this.</p></blockquote>
@@ -100,6 +106,9 @@
     <updated>2014-05-17T00:00:00+03:00</updated>
     <id>http://samghobril.github.io/blog/design-and-content-consumption</id>
     <content type="html"><![CDATA[<p>Supertop released <a href="http://castro.fm/">Castro</a> 1.1 about a week ago, and it really got me thinking about the relation between good design and the amount of content we consume.</p>
+
+<!-- more -->
+
 
 <p>I first thought about this when <a href="http://supertop.co/unread">Unread</a> came out. I had never used an RSS reader other than Feedly, and opening up the app, which feels really cluttered to me, made the content seem just as ugly and cluttered. It took a huge effort to get myself to read just a few articles, and I eventually just stopped. Unread, on the other hand, provided me with what could possibly be the most beautiful reading experience on iOS so far. I loved the typography, the structure, and the design of the app, and it got me reading and enjoying way more articles than before.</p>
 
@@ -141,6 +150,9 @@
 <blockquote><p>Admittedly @Pharrell&rsquo;s new album is a pretty fun record. So far, that&rsquo;s all it is though. It lacks any kind of innovation.</p>
 
 <p>— @samghobril</p></blockquote>
+
+<!-- more -->
+
 
 <p>It really is a fun album. I enjoyed the upbeat, catchy riffs, and even now they can sound pretty entertaining, but the record hasn&rsquo;t provided me with anything other than short-lasting amusement.</p>
 
