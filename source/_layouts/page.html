@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div>
-<article role="article">
+<article role="article" style="padding-top:0">
   {% if page.title %}
   <header>
     <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-    {% if page.date %}<p class="meta">{% include post/date.html %}{{ time }}</p>{% endif %}
   </header>
   {% endif %}
   {{ content }}
@@ -15,7 +14,8 @@ layout: default
     <footer>
       {% if page.date or page.author %}<p class="meta">
         {% if page.author %}{% include post/author.html %}{% endif %}
-        {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
+        {% include post/date.html %}{% if updated %}{{ updated }} (last update){% else %}{{ time }}{% endif %}
+        {% if site.history %}{% include post/history.html %}{% endif %}
         {% if page.categories %}{% include post/categories.html %}{% endif %}
       </p>{% endif %}
       {% unless page.sharing == false %}
@@ -28,6 +28,12 @@ layout: default
   <section>
     <h1>Comments</h1>
     <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+  </section>
+{% endif %}
+{% if site.juvia_site_key and page.comments == true %}
+  <section>
+    <h1>Comments</h1>
+    <div id="juvia_thread" aria-live="polite">{% include post/juvia_thread.html %}</div>
   </section>
 {% endif %}
 </div>
