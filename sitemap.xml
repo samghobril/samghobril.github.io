@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://samghobril.github.io/blog/pixelated/</loc>
+    <lastmod>2015-01-09T17:41:15+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://samghobril.github.io/blog/new-years-resolutions/</loc>
     <lastmod>2015-01-04T18:41:58+02:00</lastmod>
     <priority>0.8</priority>
@@ -37,25 +42,25 @@
   </url>
   <url>
     <loc>http://samghobril.github.io/404.html</loc>
-    <lastmod>2015-01-04T21:51:02+02:00</lastmod>
+    <lastmod>2015-01-09T17:43:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://samghobril.github.io/blog/archives/</loc>
-    <lastmod>2015-01-04T21:51:02+02:00</lastmod>
+    <lastmod>2015-01-09T17:43:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://samghobril.github.io/blog/</loc>
-    <lastmod>2015-01-04T21:51:02+02:00</lastmod>
+    <lastmod>2015-01-09T17:43:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://samghobril.github.io/about/</loc>
-    <lastmod>2015-01-04T21:51:02+02:00</lastmod>
+    <lastmod>2015-01-09T17:43:38+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

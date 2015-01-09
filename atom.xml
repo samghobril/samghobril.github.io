@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2015-01-04T21:51:02+02:00</updated>
+  <updated>2015-01-09T17:43:38+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pixelated]]></title>
+    <link href="http://samghobril.github.io/blog/pixelated/"/>
+    <updated>2015-01-09T17:41:15+02:00</updated>
+    <id>http://samghobril.github.io/blog/pixelated</id>
+    <content type="html"><![CDATA[<p>I just launched my video series, Pixelated. It&rsquo;ll focus on app reviews and discussions, but could really go anywhere. I don&rsquo;t want to restrict myself to just one topic, and if I feel like discussing something new I definitely will.</p>
+
+<p>Anyway, <a href="https://www.youtube.com/watch?v=Njcs9bFGMwA&amp;feature=youtu.be">give it a watch</a>. 😄</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Year's Resolutions]]></title>
