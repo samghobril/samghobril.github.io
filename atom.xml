@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2015-01-09T17:43:38+02:00</updated>
+  <updated>2015-01-16T13:21:21+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Overcast’s 2014 Sales Numbers &rarr;]]></title>
+    <link href="http://samghobril.github.io/blog/overcasts-2014-sales-numbers/"/>
+    <updated>2015-01-16T13:16:03+02:00</updated>
+    <id>http://samghobril.github.io/blog/overcasts-2014-sales-numbers</id>
+    <content type="html"><![CDATA[<blockquote><p>I can work in my nice home office, drink my fussy coffee, take a nap after lunch if I want to, and be present for my family as my kid grows up. That’s my definition of success.</p></blockquote>
+
+<p>That&rsquo;s the lifestyle I&rsquo;m aiming for.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pixelated]]></title>
