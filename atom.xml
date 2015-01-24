@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2015-01-19T18:10:19+02:00</updated>
+  <updated>2015-01-24T20:58:38+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Quoted: The First Post]]></title>
+    <link href="http://samghobril.github.io/blog/quoted-the-first-post/"/>
+    <updated>2015-01-24T20:57:13+02:00</updated>
+    <id>http://samghobril.github.io/blog/quoted-the-first-post</id>
+    <content type="html"><![CDATA[<p>I downloaded <a href="http://quotebookapp.com">Quotebook</a> when it first came out, then sort of forgot about it. Recently, however, I&rsquo;ve been using it more and more especially since I started reading again.</p>
+
+<!-- more -->
+
+
+<p>I decided to begin sharing some of my favorite quotes on this site every now and then. Here&rsquo;s three.</p>
+
+<blockquote><p>&ldquo;Too often, we grab the hand and—without realizing it—walk off without the suitcase.&rdquo; — Ed Catmull in Creativity, Inc.</p></blockquote>
+
+<p>&nbsp;</p>
+
+<blockquote><p>&ldquo;When you&rsquo;re in your little room and you&rsquo;re working on something good but if it&rsquo;s really good you&rsquo;re gonna need a bigger room and when you&rsquo;re in the bigger room you might not know what to do you might have to think of how you got started sitting in your litle room.&rdquo; — The White Stripes in Little Room</p></blockquote>
+
+<p>&nbsp;</p>
+
+<blockquote><p>&ldquo;People like to listen to other people talking. That&rsquo;s the business plan.&rdquo; — Myke Hurley</p></blockquote>
+
+<p>That last one&rsquo;s just great.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Balancing Entertainment]]></title>
