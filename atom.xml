@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2015-01-24T20:58:38+02:00</updated>
+  <updated>2015-02-04T15:54:46+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Typed: A Better Blogging Platform &rarr;]]></title>
+    <link href="http://samghobril.github.io/blog/typed-a-better-blogging-platform/"/>
+    <updated>2015-02-04T15:45:56+02:00</updated>
+    <id>http://samghobril.github.io/blog/typed-a-better-blogging-platform</id>
+    <content type="html"><![CDATA[<p>From the guys over at Realmac:</p>
+
+<blockquote><p>Typed.com is a blogging service for writers, journalists, artists, storytellers, and for anyone with something to say. It’s the online writing platform that we’ve been wanting to create and use for years.
+Based on my experience, everything that Realmac have created has been incredibly well-crafted. They&rsquo;re my favorite software company, and I have no doubt that I&rsquo;ll be moving my blog to typed.com once it launches.</p></blockquote>
+
+<p>Check out the project, and definitely back it if you can.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Quoted: The First Post]]></title>
