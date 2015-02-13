@@ -4,7 +4,7 @@
   <title><![CDATA[Sam Ghobril]]></title>
   <link href="http://samghobril.github.io/atom.xml" rel="self"/>
   <link href="http://samghobril.github.io/"/>
-  <updated>2015-02-04T16:01:59+02:00</updated>
+  <updated>2015-02-13T19:35:43+02:00</updated>
   <id>http://samghobril.github.io/</id>
   <author>
     <name><![CDATA[Sam Ghobril]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Quoted: Creativity, Inc.]]></title>
+    <link href="http://samghobril.github.io/blog/quoted-creativity/"/>
+    <updated>2015-02-13T19:33:28+02:00</updated>
+    <id>http://samghobril.github.io/blog/quoted-creativity</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m more than halfway through Creativity, Inc. It&rsquo;s super inspirational, and Catmull&rsquo;s examples and thoughts are quite insightful. Here are three that I loved and saved into Quotebook:</p>
+
+<!-- more -->
+
+
+<blockquote><h2>&ldquo;Success convinces us that we are doing things the right way.&rdquo;</h2>
+
+<h2>&ldquo;Most of us walk around thinking that our view is the best—probably because it is the only one we really knew.&rdquo;</h2>
+
+<p>&ldquo;When filmmakers, industrial designers, software designers, or people in any other creative profession merely cut up and reassemble what has come before, it gives the illusion of creativity, but it is craft without art.&rdquo;</p></blockquote>
+
+<p>All are quotes from Ed Catmull in Creativity, Inc.</p>
+
+<p>Great read.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Typed: A Better Blogging Platform &rarr;]]></title>
